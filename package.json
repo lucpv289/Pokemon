@@ -8,7 +8,8 @@
     "get-csv": "async-node bin/build-csv/download-csv.js",
     "serve": "async-node bin/dev-server.js",
     "lint": "eslint bin/*js src/js",
-    "build": "async-node bin/build-production.js"
+    "build": "async-node bin/build-production.js",
+    "start": "npm run serve"
   },
   "keywords": [],
   "author": "Nolan Lawson <nolan@nolanlawson.com>",

@@ -7,7 +7,7 @@ function renderMonster(monster) {
   return h('li', {
     style: {background: getMonsterBackground(monster)}
   }, [
-    h(`button.monster-sprite.sprite-${monster.national_id}`, {
+    h(`button.monster-sprite`, {
       type: 'button'
     }),
     h('span', getMonsterDisplayName(monster.name))

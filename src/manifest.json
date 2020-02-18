@@ -1,30 +1,30 @@
 {
-  "short_name": "Pokedex.org",
-  "name": "Pokedex.org",
+  "short_name": "KTX caocap",
+  "name": "KTX caocap",
   "display": "standalone",
   "icons": [
     {
-      "src": "img/icon-48.png",
+      "src": "img/ktx_cc.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "img/icon-96.png",
+      "src": "img/ktx_cc.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "img/icon-144.png",
+      "src": "img/ktx_cc.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "img/icon-196.png",
+      "src": "img/ktx_cc.png",
       "sizes": "196x196",
       "type": "image/png"
     },
     {
-      "src": "img/icon-384.png",
+      "src": "img/ktx_cc.png",
       "sizes": "384x384",
       "type": "image/png"
     }
